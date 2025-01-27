@@ -1,3 +1,14 @@
+// Type in ChatGPT to get explaination "how esp32 get dynamic ip address and how to aceess from web"
+/* After Upload in Serial Monitor you will get ESP32 IP address ; type in chrome or edge to get "Hello World"
+You Get Result 
+Connecting to WiFi...
+WiFi connected
+ESP32 IP Address: 192.168.1.101
+
+Copy IP address and paste in browser
+*/
+
+
 #include <WiFi.h>
 
 // WiFi credentials
